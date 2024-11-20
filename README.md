@@ -25,17 +25,19 @@ The project uses the MovieLens dataset obtained from Kaggle:
 ***
 
 ## Screenshots
+<html>
 <figure style = "text-align: center;">
   <img src = "https://github.com/user-attachments/assets/5d2ac67d-c2de-4423-a87e-4b9afc167e40" alt = "collaborative filtering" width = "80%"><br>
   <figcaption>Collaborative filtering using SVD</figcaption>
 </figure>
 
-<br><br>
+<br>
 
 <figure style = "text-align: center;">
   <img src = "https://github.com/user-attachments/assets/bd02d3dd-8225-4636-86ea-d4c0629757e0" alt = "content based filtering" width = "80%"><br>
   <figcaption>Content-based filtering using TF-IDF</figcaption>
 </figure>
+</htmL>
 
 ***
 
